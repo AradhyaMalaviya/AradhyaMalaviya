@@ -1,9 +1,9 @@
 <h1 align="center">Aaradhya Malaviya</h1>
-<p align="center">Software Developer & Machine Learning Engineer · Data Science Intern @ Amdox Technologies · BCA, PSIT Kanpur</p>
+<p align="center">Software Developer · Data Science Intern @ Amdox Technologies · BCA, PSIT Kanpur</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="https://YOUR-PORTFOLIO-URL.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat&logo=vercel&logoColor=white"></a>
+  <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://www.linkedin.com/in/aaradhya-malaviya/)"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="[https://YOUR-PORTFOLIO-URL.vercel.app](https://personal-portfolio-iota-silk-19.vercel.app/)"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat&logo=vercel&logoColor=white"></a>
   <a href="mailto:aaradhya.malaviya2005@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white"></a>
 </p>
 
@@ -45,7 +45,6 @@ I build end-to-end ML platforms and full-stack applications — not just noteboo
 | [**Stock Price Prediction**](https://github.com/AradhyaMalaviya/REPO-NAME-HERE) | Financial forecasting model combining OHLC + technical indicators (RSI, MACD) with NLP sentiment analysis on news | LSTM, XGBoost, Random Forest, TensorFlow |
 | [**my-portfolio**](https://github.com/AradhyaMalaviya/my-portfolio) | Personal portfolio site — projects, skills, internship experience | HTML, CSS, JavaScript, Firebase, Vercel |
 
-*(swap in the two REPO-NAME-HERE links once those repos are pushed)*
 
 ### 📊 GitHub stats
 <p>

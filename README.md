@@ -2,8 +2,8 @@
 <p align="center">Software Developer · Data Science Intern @ Amdox Technologies · BCA, PSIT Kanpur</p>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://www.linkedin.com/in/aaradhya-malaviya/)"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="[https://YOUR-PORTFOLIO-URL.vercel.app](https://personal-portfolio-iota-silk-19.vercel.app/)"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat&logo=vercel&logoColor=white"></a>
+  <a href="(https://www.linkedin.com/in/aaradhya-malaviya/)"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="(https://personal-portfolio-iota-silk-19.vercel.app/)"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat&logo=vercel&logoColor=white"></a>
   <a href="mailto:aaradhya.malaviya2005@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white"></a>
 </p>
 

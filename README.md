@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="[https://personal-portfolio-iota-silk-19.vercel.app/](https://aaradhya-malaviya-portfolio.vercel.app/)">
+  <a href="(https://aaradhya-malaviya-portfolio.vercel.app/)">
     <img src="https://img.shields.io/badge/Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00DC82" alt="Portfolio" />
   </a>
   &nbsp;

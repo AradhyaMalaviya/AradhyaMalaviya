@@ -9,7 +9,7 @@
 
 <!-- ANIMATED TYPING SUBTITLE -->
 <p align="center">
-  <a href="https://personal-portfolio-iota-silk-19.vercel.app/">
+  <a href="https://aaradhya-malaviya-portfolio.vercel.app/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Data+Science+Intern+%40+Amdox+Technologies;Full-Stack+%26+AI%2FML+Engineer;Building+End-to-End+ML+Platforms+%26+SaaS;React+%E2%80%A2+FastAPI+%E2%80%A2+PyTorch+%E2%80%A2+Docker+%E2%80%A2+PostgreSQL" alt="Typing Subtitle" />
   </a>
 </p>
@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://personal-portfolio-iota-silk-19.vercel.app/">
+  <a href="[https://personal-portfolio-iota-silk-19.vercel.app/](https://aaradhya-malaviya-portfolio.vercel.app/)">
     <img src="https://img.shields.io/badge/Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00DC82" alt="Portfolio" />
   </a>
   &nbsp;

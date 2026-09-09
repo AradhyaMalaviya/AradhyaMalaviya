@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00DC82" alt="Portfolio" />
   </a>
   &nbsp;
-  <a href="mailto:aaradhya.malaviya2005@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aaradhya.malaviya2005@gmail.com">
     <img src="https://img.shields.io/badge/Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -307,7 +307,7 @@ DSA & System Design              █████████████░░�
     <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=00DC82" alt="Portfolio" />
   </a>
   &nbsp;
-  <a href="mailto:aaradhya.malaviya2005@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aaradhya.malaviya2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </p>
